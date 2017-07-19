@@ -1,12 +1,12 @@
 # gulp documentation
 
-* [Getting Started](getting-started.md) - How to get going with gulp
-* [API documentation](API.md) - Learn the ins and outs of using gulp
-* [CLI documentation](CLI.md) - Learn how to call tasks and use compilers
-* [Writing a Plugin](writing-a-plugin/README.md) - So you're writing a gulp plugin? Go here for the essential dos and don'ts.
-* [Why Use Pump?](why-use-pump/README.md) - Why you should use the `pump` module instead of calling `.pipe` yourself.
-* [Simplified Chinese documentation][SimplifiedChineseDocs] - gulp 简体中文文档.
-* [Korean documentation][KoreanDocs] - gulp 한국어 참조 문서.
+* [Getting Started](getting-started.md) get going with gulp
+* [API documentation](API.md) gulp's programming interface, defined
+* [CLI documentation](CLI.md) Learn how to call tasks and use compilers
+* [Writing a Plugin](writing-a-plugin/README.md) go here for the essentials of writing a gulp plugin
+* [Why Use Pump?](why-use-pump/README.md) use the `pump` module instead of calling `.pipe` yourself
+* [Simplified Chinese documentation][SimplifiedChineseDocs] - gulp 简体中文文档
+* [Korean documentation][KoreanDocs] - gulp 한국어 참조 문서
 
 
 ## FAQ
