@@ -26,16 +26,16 @@ content
 - copy editing: fix typos, clarify language, and generally improve the quality
 of the content
 - formatting: help keep content easy to read with consistent formatting
-- code: Fix issues or contribute new features to this or any related projects
+- code: fix issues or contribute new features to this or any related projects
 
 # Conduct
 
-We are committed to providing a friendly, safe and welcoming environment for
+We are committed to providing a friendly, safe, and welcoming environment for
 all, regardless of gender, sexual orientation, disability, ethnicity, religion,
 or similar personal characteristic.
 
-On IRC, please avoid using overtly sexual nicknames or other nicknames that
-might detract from a friendly, safe and welcoming environment for all.
+On all gulp communication channels, please avoid using overtly sexual nicknames or other nicknames that
+might detract from a friendly, safe, and welcoming environment for all.
 
 Please be kind and courteous. There's no need to be mean or rude.
 Respect that people have differences of opinion and that every design or
@@ -43,10 +43,10 @@ implementation choice carries a trade-off and numerous costs. There is seldom
 a right answer, merely an optimal answer given a set of values and
 circumstances.
 
-Please keep unstructured critique to a minimum. If you have solid ideas you
+Please keep unstructured criticism to a minimum. If you have solid ideas you
 want to experiment with, make a fork and see how it works.
 
-We will exclude you from interaction if you insult, demean or harass anyone.
+We will exclude you from interaction if you insult, demean, or harass anyone.
 That is not welcome behavior. We interpret the term "harassment" as
 including the definition in the
 [Citizen Code of Conduct](http://citizencodeofconduct.org/);
@@ -61,7 +61,7 @@ member, please contact one of the channel ops or any of the
 immediately. Whether you're a regular contributor or a newcomer, we care about
 making this community a safe place for you and we've got your back.
 
-Likewise any spamming, trolling, flaming, baiting or other attention-stealing
+Likewise any spamming, trolling, flaming, baiting, or other attention-stealing
 behavior is not welcome.
 
 
@@ -75,7 +75,7 @@ GitHub issues are the primary way for communicating about specific proposed
 changes to this project.
 
 In both contexts, please follow the conduct guidelines above. Language issues
-are often contentious and we'd like to keep discussion brief, civil and focused
+are often contentious and we'd like to keep discussion brief, civil, and focused
 on what we're actually doing, not wandering off into too much imaginary stuff.
 
 # Frequently Asked Questions
